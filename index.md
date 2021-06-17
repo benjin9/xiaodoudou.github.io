@@ -7,6 +7,7 @@
 ## 宝可梦系列
 
 ### 甲贺忍蛙
+![alt 甲贺忍蛙](https://github.com/benjin9/xiaodoudou.github.io/blob/gh-pages/1.PNG)
 https://www.ixigua.com/6961802246451528206?logTag=1398ad87f594f4cfd59b
 
 
