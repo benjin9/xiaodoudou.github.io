@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# 耿直的小豆豆
 
-You can use the [editor on GitHub](https://github.com/benjin9/xiaodoudou.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到我的主页
+我是耿直的小豆豆，一个黏土手工博主。
+我的黏土手工视频在西瓜视频，小红书，抖音，哔哩哔哩，好看视频上都有更新，另外还有个耿直的小豆豆的微信公众号。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 宝可梦系列
 
-### Markdown
+### 甲贺忍蛙
+https://www.ixigua.com/6961802246451528206?logTag=1398ad87f594f4cfd59b
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 波加曼
+https://www.ixigua.com/6815382294467969549?id=6952122432861766174&logTag=d83b0190062a8d8ad7a9
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 杰尼龟（杰哥）
+https://www.ixigua.com/6965103417798689293?logTag=0c81a16850dd6c0447f3
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 奥特曼
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benjin9/xiaodoudou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 未来新坑
